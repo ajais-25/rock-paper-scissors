@@ -19,7 +19,7 @@ This is a simple implementation of the classic game "Rock Paper Scissors" using 
 
 ## Demo
 
-You can play the game by visiting the [https://ajais-25.github.io/rock-paper-scissors/](link-to-demo) hosted online.
+You can play the game by visiting the [https://ajais-25.github.io/rock-paper-scissors/](URL) hosted online.
 
 ## Usage
 
